@@ -1,4 +1,4 @@
-# Inteligencia Artificial I 2026-1
+# Inteligencia Artificial I 2026-2
 
 ## Bienvenidos!
 
@@ -68,36 +68,32 @@ Todos los items tienen el mismo porcentaje de evaluación.
 
 
 ## Calendario y plazos
-
-                        SESSION 1            SESSION 2              
-
-
-    W01 feb03–feb05    Intro                     Python-general
-    W02 feb10–feb12    Python-general            Python-Numpy
-    W03 feb17–feb19    Genetic Alg               Genetic Alg
-    W04 feb24–feb26    Pandas                    Pandas
-    W05 mar03–mar05    Visualización             análisis de datos
-    W06 mar10–mar12    PROYECTO-AVANCE 1         Parcial 1
-    W07 mar17–mar19    Intro ML-Supervi          Clasificación de una neurona
-    W08 mar24–mar26    Deep Learning             Deep Learning
-    W09 mar31–apr02    Otros ML                  Evaluación clasificadores
-    W10 apr07–apr09    ML-Regresión              Evaluación regresores
-    W11 apr14–apr16    Evaluación regres         Evaluación regresores
-    W12 apr21–apr23    Aplic-imgs                Aplic-audio
-    W13 apr28–apr30    Aplic-audio               PROYECTO-AVANCE 2
-    W14 may05–may07    PROYECTO-AVANCE 2         Parcial 2
-    W15 may12–may14    No-sup: agrup             No-sup: dimension
-    W16 may19–may21    Evaluación No-sup         PROYECTO-AVANCE 3
-    W17 may26–may28    Sustentaciones            Parcial 3
+            Semana	Clase 1	Clase 2	Tema 1 	Tema 2	
+            
+            W01	agosto 04	agosto 06	 Intro                   	  Python-general	
+            W02	agosto 11	agosto 13	Python-general	Python-Numpy	
+            W03	agosto 18	agosto 20	Genetic Alg	Genetic Alg	
+            W04	agosto 25	agosto 27	Pandas	Pandas	
+            W05	septiembre 1	septiembre 3	visualización 	Análisis de datos	
+            W06	septiembre 8	septiembre 10	Proyecto Avance 1	parcial 1	
+            W07	septiembre 15	septiembre 17	Intro ML-Supervisado	 Clasificación de una neurona	
+            W08	septiembre 22	septiembre 24	Deep Learning	Deep Learning	
+            W09	septiembre 29	octubre 1	Otros ML	Evaluación de clasificadores	
+            W10	octubre 06	octubre 08	ML-regresión	Evaluación regresores	
+            W11	octubre 13	octubre 15	Aplicación en Imganes	Aplicación en imágenes. 	
+            W12	octubre 20	octubre 22	Aplicación en audio	Aplicación en audio	
+            W13	octubre 27	octubre 29	Proyecto Avance 2	Parcial 2	
+            W14	noviembre 3	noviembre 5	No supervisado- clustering	No supervisado dimension	
+            W15	noviembre 10	noviembre 12	Evaluación no supervisado	Evaluación no supervisado	
+            W16	noviembre 17	noviembre 19	Sustentacion Proyecto	parcial 3	
 
 
 
 
 
 
-
-     feb 02            -> Inicio de clases
-     mar 22            -> Fecha limite para reportar primera nota
+     agosto 03                -> Inicio de clases
+     septiembre 20            -> Fecha limite para reportar primera nota
      abr 05            -> Ultimo dia para cancelación asignaturas
      may 29            -> Finalización de clases y evaluaciones finales
      may 30            -> Registro calificaciones finales, con actas.
