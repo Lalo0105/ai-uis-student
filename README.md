@@ -4,6 +4,7 @@
 
 <img src="https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/raw/master/imgs/banner_IA.png"  width="1000px" height="200px">
 
+<img src="https://drive.google.com/file/d/1gbfuI4jGf6gD0PQQcLobLqe2OFdi1Iuz/view?usp=drive_link" width="1000px" height="200px">
 
 ## Colaboratory (Google)
 
@@ -94,11 +95,11 @@ Todos los items tienen el mismo porcentaje de evaluación.
 
      agosto 03                -> Inicio de clases
      septiembre 20            -> Fecha limite para reportar primera nota
-     abr 05            -> Ultimo dia para cancelación asignaturas
-     may 29            -> Finalización de clases y evaluaciones finales
-     may 30            -> Registro calificaciones finales, con actas.
-     jun 03            -> habilitaciones
-     jun 05            -> Registro de calificaciones definitivas. Solo si hay habilitaciones
+     septiembre 27            -> Ultimo dia para cancelación asignaturas
+     noviembre 20             -> Finalización de clases y evaluaciones finales
+     noviembre 21             -> Registro calificaciones finales, con actas.
+     noviembre 25             -> habilitaciones
+     noviembre 27             -> Registro de calificaciones definitivas. Solo si hay habilitaciones
 
     
 **ACUERDO n.° acuerdo 341, de 2025**
