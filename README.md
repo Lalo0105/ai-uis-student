@@ -112,3 +112,8 @@ Todos los items tienen el mismo porcentaje de evaluación.
 
 **DEADLINE DE LOS PROBLEMSETS SERÁ EL DIA DE CADA PARCIAL**
 
+
+<img src="https://drive.google.com/uc?export=view&id=1Y8xhEPVx2nbWrM6XoBK9B6LtQuIuCYYu"  width="1000px" height="200px">
+
+
+
