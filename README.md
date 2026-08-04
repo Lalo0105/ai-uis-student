@@ -2,9 +2,7 @@
 
 ## Bienvenidos!
 
-<img src="https://gitlab.com/bivl2ab/academico/cursos-uis/ai/ai-uis-student/raw/master/imgs/banner_IA.png"  width="1000px" height="200px">
-
-<img src="https://drive.google.com/uc?export=view&id=1gbfuI4jGf6gD0PQQcLobLqe2OFdi1Iuz" width="1000px" height="200px">
+<img src="https://drive.google.com/uc?export=view&id=1XMSQvqGXdYM0McNCTafguLUn1uiL8zu_"  width="1000px" height="200px">
 
 ## Colaboratory (Google)
 
