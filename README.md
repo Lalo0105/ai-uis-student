@@ -73,14 +73,14 @@ Todos los items tienen el mismo porcentaje de evaluación.
             W02	agosto 11	agosto 13	Python-general	Python-Numpy	
             W03	agosto 18	agosto 20	Genetic Alg	Genetic Alg	
             W04	agosto 25	agosto 27	Pandas	Pandas	
-            W05	septiembre 1	septiembre 3	visualización 	Análisis de datos	
-            W06	septiembre 8	septiembre 10	Proyecto Avance 1	parcial 1	
-            W07	septiembre 15	septiembre 17	Intro ML-Supervisado	 Clasificación de una neurona	
-            W08	septiembre 22	septiembre 24	Deep Learning	Deep Learning	
-            W09	septiembre 29	octubre 1	Otros ML	Evaluación de clasificadores	
-            W10	octubre 06	octubre 08	ML-regresión	Evaluación regresores	
-            W11	octubre 13	octubre 15	Aplicación en Imganes	Aplicación en imágenes. 	
-            W12	octubre 20	octubre 22	Aplicación en audio	Aplicación en audio	
+            W05	septiembre 1	septiembre 3	visualización 	visualización	
+            W06	septiembre 8	septiembre 10		--           Proyecto Avance 1
+            W07	septiembre 15	septiembre 17	Análisis de datos Análisis de datos 
+            W08	septiembre 22	septiembre 24   Proyecto Avance 1	parcial 1
+            W09	septiembre 29	octubre 1	Intro ML- Clasificación de una neurona	Deep Learning		
+            W10	octubre 06	octubre 08	Otros ML	Evaluación de clasificadores
+            W11	octubre 13	octubre 15	ML-regresión	Evaluación regresores		
+            W12	octubre 20	octubre 22	Aplicación en Imganes	Aplicación en imágenes. 
             W13	octubre 27	octubre 29	Proyecto Avance 2	Parcial 2	
             W14	noviembre 3	noviembre 5	No supervisado- clustering	No supervisado dimension	
             W15	noviembre 10	noviembre 12	Evaluación no supervisado	Evaluación no supervisado	
