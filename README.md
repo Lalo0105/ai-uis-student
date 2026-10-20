@@ -79,12 +79,12 @@ Todos los items tienen el mismo porcentaje de evaluación.
             W08	septiembre 22	septiembre 24   Proyecto Avance 1	parcial 1
             W09	septiembre 29	octubre 1	Intro ML- Clasificación de una neurona	Deep Learning		
             W10	octubre 06	octubre 08	Otros ML	Evaluación de clasificadores
-            W11	octubre 13	octubre 15	ML-regresión	Evaluación regresores		
-            W12	octubre 20	octubre 22	Aplicación en Imganes	Aplicación en imágenes. 
-            W13	octubre 27	octubre 29	Proyecto Avance 2	Parcial 2	
-            W14	noviembre 3	noviembre 5	No supervisado- clustering	No supervisado dimension	
-            W15	noviembre 10	noviembre 12	Evaluación no supervisado	Evaluación no supervisado	
-            W16	noviembre 17	noviembre 19	Sustentacion Proyecto	parcial 3	
+            W11	octubre 13	octubre 15	Otros MLn	Particioness		
+            W12	octubre 20	octubre 22	ML-regresións	Deep Learning. 
+            W13	octubre 27	octubre 29	DL-aplicaciones	 Presentacion proyectos	
+            W14	noviembre 3	noviembre 5	 Parcial 2	No supervisado dimension	
+            W15	noviembre 10	noviembre 12	Evaluación no supervisado	Sustentacion Proyecto	
+            W16	noviembre 17	noviembre 19	Parcial 3	  --	
 
 
 
